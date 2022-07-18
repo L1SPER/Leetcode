@@ -1,0 +1,4 @@
+﻿  maincpp.cpp
+C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q8\maincpp.cpp(6,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q8\maincpp.cpp(6,28): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Q8.vcxproj -> C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q8\x64\Debug\Q8.exe
