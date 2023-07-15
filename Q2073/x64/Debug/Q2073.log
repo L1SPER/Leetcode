@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q2073\main.cpp(7,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q2073\main.cpp(25,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Q2073.vcxproj -> C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q2073\x64\Debug\Q2073.exe
