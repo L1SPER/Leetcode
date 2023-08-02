@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q226\Source.cpp(44,20): warning C4553: '==': result of expression not used; did you intend '='?
+  Q226.vcxproj -> C:\Users\alim2\OneDrive\Masaüstü\Leetcode\Q226\x64\Debug\Q226.exe
