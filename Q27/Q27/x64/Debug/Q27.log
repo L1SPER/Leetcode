@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Alim\Desktop\Leetcode\Q27\main.cpp(23,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alim\Desktop\Leetcode\Q27\main.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alim\Desktop\Leetcode\Q27\main.cpp(34,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Q27.vcxproj -> C:\Users\Alim\Desktop\Leetcode\Q27\x64\Debug\Q27.exe
